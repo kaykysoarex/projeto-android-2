@@ -48,7 +48,7 @@ font-family: var(--fonte-padrao);
 font-size: 1.2em;
 padding: 0px 10px;
 text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.445);
-margin-bottom: 30px;}
+padding-bottom: 32px;}
 
 nav
 {background-color: #063d1e;
